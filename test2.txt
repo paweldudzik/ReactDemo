@@ -1,2 +1,2 @@
 
-tresc w drugiej linijce
+tresc w drugiej linijce + dodatek
