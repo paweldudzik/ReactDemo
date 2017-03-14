@@ -1,2 +1,3 @@
 Test
-Nowa linia third
+Nowa linia third i tu zmiana
+Kolejna linia
